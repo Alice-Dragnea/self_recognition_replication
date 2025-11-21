@@ -3,4 +3,4 @@ Replication of [“Inspection and Control of Self-Generated-Text Recognition and
 
 Project Report
 
-[Project Proposal] (https://docs.google.com/document/d/1OiYYDSTmZHOJgV_1dtuparIEq6z5LL_fgf60Xh_puSk/edit?usp=sharing)
+[Project Proposal](https://docs.google.com/document/d/1OiYYDSTmZHOJgV_1dtuparIEq6z5LL_fgf60Xh_puSk/edit?usp=sharing)
